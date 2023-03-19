@@ -1,6 +1,6 @@
 # DNA-GENETIC ENCRYPTION-DECRYPTION TECHNIQUE 
 
-In this project we implement a DNA-Genetic Encryption Technique (D-GET) in order to make the DNA SEQUENCE more secure and less predictable.
+In this Project, we will implement the Encryption-Decryption Technique using DNA-Genetic Method which makes this technique more secure.
 
 <h3> TOOLS/LANGUAGE USED: </h3>
 
